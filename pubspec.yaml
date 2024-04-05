@@ -53,7 +53,10 @@ dependencies:
       url: https://github.com/vmhieu/syncfusion_flutter_core_24.1.41.git
       ref: master
 
-  syncfusion_flutter_pdf: ^24.1.41  
+  syncfusion_flutter_pdf:
+    git: 
+      url: https://github.com/vmhieu/syncfusion_pdfviewer_24.1.41.git
+      ref: master
 
   syncfusion_flutter_signaturepad: ^24.1.41     
   # syncfusion_flutter_signaturepad: ^20.1.61-beta  
