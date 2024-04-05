@@ -55,7 +55,8 @@ dependencies:
 
   syncfusion_flutter_pdf: ^20.1.61-beta   
 
-  syncfusion_flutter_signaturepad: ^24.1.41     
+  # syncfusion_flutter_signaturepad: ^24.1.41     
+  syncfusion_flutter_signaturepad: ^20.1.61-beta  
 
   url_launcher: ^6.1.0
 
